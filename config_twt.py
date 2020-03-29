@@ -1,0 +1,5 @@
+app_key_twt = 'kaTJII9nIHyLkWAaMxlRGGVnX'
+app_secret_twt = '44enXuai6Q059fiuZPM2jBl2WDI0AwdqIIGHbxM4gWIkUjCw1x'
+
+oauth_token_twt = '344176303-XQu9W7hnG2V4XAyTwlP7a9BLqubx8FwhmuStJCmN'
+oauth_token_secret_twt = '9bKY3R3jVptLg5BlDbSyugw2xnWo6WdBjkjphoduMJf9D'
