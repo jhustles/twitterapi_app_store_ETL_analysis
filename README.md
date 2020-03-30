@@ -57,12 +57,12 @@ You will need the following installed on your computer system, if you want to re
 ## Author
 
 * **Johneson Giang** - *Project Lead* - [Github](https://github.com/jhustles)
-* ** Jeffery Anthony**
-* ** David Pham**
+* Jeffery Anthony
+* David Pham
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
-* I definitely want to give a shout out to my dear teacher, mentor, and friend @ Coding With Corgis!
+* I definitely want to give a shout out to my dear teacher, mentor, and friend @CodingWithCorgis!
