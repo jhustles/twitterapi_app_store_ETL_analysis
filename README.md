@@ -37,7 +37,7 @@ You will need the following installed on your computer system, if you want to re
 * Viewing Source Code - if this is the route you'd like to go, then please click on the Jupyter Notebooks in the repository that I've numbered numerically as you can easily view these files via Github. Please view item #3 pdf to view my deck with all of the key insights we discovered from our project. 
 * Clone / Download Entire Repository - if you'd like to replicate my work, please download / clone my repository and install all of the prerequisites. After, you can open the Jupyter Notebooks to see all of the raw calcuations and code.
 
-## Key Emphasis On The Code And Execution Of this Project
+## Key Emphasis On The Code And Execution Of This Project
 * I wanted to emphasize this function I built because it was the main extraction method I used to acquire tweets data from Twitter's API.
 * The input is the twitter handle / hastag I wanted to query, and the output is all of results (all_data) appeneded to "final_all_data", as long as the user says 'y', and subsequently inputs the same search query. Each Twitter query provides up to 100 tweets, depending on how much the respective handle / hastag was mentioned by Twitter users in that week.
 * Once the user is done, the program exits.
@@ -89,6 +89,9 @@ You will need the following installed on your computer system, if you want to re
 ![slide_10](./images/slide_10.PNG)
 ![slide_11](./images/slide_11.PNG)
 ![slide_12](./images/slide_12.PNG)
+
+## Personal Note
+* Thank you for your time and hope you enjoyed viewing our project!
 
 ## Author
 
