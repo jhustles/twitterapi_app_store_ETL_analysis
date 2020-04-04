@@ -64,7 +64,8 @@ You will need the following installed on your computer system, if you want to re
 ![slide_0e](./images/slide_0e.PNG)
 
 * Results of after loading it into MySQL.
-
+* 
+![slide_0e2](./images/slide_0e2.PNG)
 ![slide_0e1](./images/slide_0e1.PNG)
 
 * Use Pandas to save the original output of the tweets data I gathered as a CSV file in the resources folders.
