@@ -80,7 +80,14 @@ You will need the following installed on your computer system, if you want to re
 
 ![slide_1](./images/slide_1.PNG)
 ![slide_2](./images/slide_2.PNG)
-![slide_3](./images/slide_3.PNG)
+<!-- ![slide_3](./images/slide_3.PNG) -->
+
+![slide_3a](./images/slide_3a.PNG)
+![slide_3b](./images/slide_3b.PNG)
+![slide_3c](./images/slide_3c.PNG)
+![slide_3d](./images/slide_3d.PNG)
+
+
 ![slide_4](./images/slide_4.PNG)
 ![slide_5](./images/slide_5.PNG)
 ![slide_6](./images/slide_6.PNG)
